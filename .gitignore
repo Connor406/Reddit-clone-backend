@@ -4,3 +4,4 @@ yarn-error.log
 .vscode/*
 src/constants.ts
 dist/constants.js
+dist/constants.js.map
